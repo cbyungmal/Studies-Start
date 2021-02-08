@@ -33,3 +33,38 @@ console.log(myName); // prints => bob
 var myVariable = 1;
 var myVariable = true;
 myVariable = "someString";
+
+// Datatypes
+datatypes are used within type systems, which offers various ways of defining, implementing, and using them.
+//Numbers
+any numerical value: positive, negative, or with decimal points
+// Number example
+var mynumber = 5; // regular Number
+// Strings
+a collection of charcaters/symbols surrounded by quotes
+// String example
+var myvar; // declaring a variables
+// Booleans
+A true or false value
+// Boolean example
+var myBool = true
+// Array
+an array literal is a complex datatype that is used to store multiple datatypes
+// Array examples
+[] // this is an array literal
+// Function
+a reusuable code that is used to perform a single related action
+// Function examples
+() // this is a funcion
+// Undefined
+anything that lacks a description or is not decalred is considered undefined
+// Undefined examples
+error or "no value"
+// NaN
+means not a number, meaning undefined
+// NaN examples
+20 * 'horse'
+// Infinity and -infnity
+positive infinity is the rightmost  point on the number line a negative infinty is the leftmost
+// Difference between primative and complex data types
+primitative is predefined and complex is made by the programmer and is defined.
